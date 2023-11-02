@@ -1,0 +1,111 @@
+.fond{
+    background-image: url(/photo/wallpapersden.com_zelda_1920x1080.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.bannier{
+
+    padding: 12em 2em 8em 2em;
+    background: url(/photo/Zelda-Breath-of-the-Wild-Main-Banner-Img.jpg);
+    background-size: cover;
+    height: 50px;
+    width: auto;
+    margin: -8px -8px 0px -8px;
+}
+
+.sous-bannier {
+    height: 200px;
+    margin: -40px 10px 10px 10px;
+
+}
+
+.presentation{
+    display: flex;
+    flex-wrap: row;
+    max-height: 800px;
+    margin: -8px -7px 10px -8px;
+    background-color: rgb(252, 252, 252);
+    background: linear-gradient(rgb(160, 125, 61), rgb(0, 0, 0));
+    
+   
+}
+
+.titre{
+    text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+
+.text1{
+    flex-basis: 75%;
+    margin: 40px 0px 10px 80px;
+    color: rgb(230, 230, 230);
+    min-width: 50%;
+    text-align: justify;
+    font-family: 'nunito', sans-serif;
+    
+    
+    
+    
+}
+
+.photo{
+
+    flex-basis: 25%;
+
+}
+
+.video-ban{
+    display: flex;
+    justify-content: center;
+    margin: -25px -8px 10px -8px;
+    background-image: url(/video/arriere-video.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+   
+}
+
+
+
+.video{
+    margin: 150px 10px 150px 10px;
+}
+
+
+
+.titre1{
+    display: flex;
+    color: white;
+    margin: 50px -20px;
+    padding: 10px 30px 10px 30px;
+    justify-content: center;
+    font-size: 4rem;
+    
+    min-width: 50%;
+    background-color: rgb(0, 0, 0, 0.8);
+    border: solid rgb(107, 107, 107) 1px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    margin: 1rem;
+
+}
+
+.photo1{
+
+    height: 20rem;
+    margin: 1rem;
+    border-radius: 10px;
+}
+
+
+
