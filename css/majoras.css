@@ -1,5 +1,5 @@
 .fond{
-    background-image: url(/video/arriere-video-majoras.jpg);
+    background-image: url(../video/arriere-video-majoras.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -10,7 +10,7 @@
 
     display: flex;
     padding: 12em 2em 8em 2em;
-    background: url(/photo-majoras/lune.jpg);
+    background: url(../photo-majoras/lune.jpg);
     background-size: cover;
     height: 80px;
     width: auto;

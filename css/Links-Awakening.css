@@ -1,5 +1,5 @@
 .fond{
-    background-image: url(/photo-Awakening/official-zelda-website-updated-by-nintendo-of-america-2.webp);
+    background-image: url(../photo-Awakening/official-zelda-website-updated-by-nintendo-of-america-2.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -11,7 +11,7 @@
 
     display: flex;
     padding: 12em 2em 8em 2em;
-    background: url(/photo-Awakening/banner2.jpg);
+    background: url(../photo-Awakening/banner2.jpg);
     background-size: cover;
     height: 100%;
     width: 100%;

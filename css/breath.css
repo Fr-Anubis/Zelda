@@ -1,5 +1,5 @@
 .fond{
-    background-image: url(/photo/wallpapersden.com_zelda_1920x1080.jpg);
+    background-image: url(../photo/wallpapersden.com_zelda_1920x1080.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -9,7 +9,7 @@
 .bannier{
 
     padding: 12em 2em 8em 2em;
-    background: url(/photo/Zelda-Breath-of-the-Wild-Main-Banner-Img.jpg);
+    background: url(../photo/Zelda-Breath-of-the-Wild-Main-Banner-Img.jpg);
     background-size: cover;
     height: 50px;
     width: auto;
